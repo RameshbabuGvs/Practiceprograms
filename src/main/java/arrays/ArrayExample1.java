@@ -8,7 +8,7 @@ public static void main(String[]args){
 		a[2]=30;
 		a[3]=40;
 		a[4]=50;
-		
+		System.out.println("Arrays");
 		/*for(int i=0;i<=4;i++){
 		System.out.println(a[i]);
 		}
